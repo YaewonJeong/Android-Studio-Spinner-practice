@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    
+    <string-array name="locations">
+        <item>우정읍사무소</item>
+        <item>삼괴도서관</item>
+
+    </string-array>
+</resources>
